@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\ren\opencv\build\include\opencv2\calib3d.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  LINK : 前回のインクリメンタル リンクで C:\Users\Ren\Project\ShowLevel\Debug\ShowLevel.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+opencv_world420d.lib(opencv_world420d.dll) : fatal error LNK1112: モジュールのコンピューターの種類 'x64' は対象コンピューターの種類 'x86' と競合しています。
